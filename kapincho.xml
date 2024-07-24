@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<update version="0.0.4">
-			<file name="kapincho.xml" url="https://raw.githubusercontent.com/RichardMustkivi/test/main/kapincho.xml"/>
+			<file name="kapincho.xml" url="https://raw.githubusercontent.com/kronkster/test/main/kapincho.xml"/>
 		</update>
 	</info>	
 	<element name="Kapincho" type="Race" source="Kronk's despair" id="ID_KRONK_KAPINCHO">
