@@ -2,26 +2,26 @@
 <elements>
 	<info>
 		<update version="0.0.4">
-			<file name="kapincho.xml" />
+			<file name="kapincho.xml" url="https://raw.githubusercontent.com/RichardMustkivi/test/main/kapincho.xml"/>
 		</update>
 	</info>	
-	<element name="Kapincho" type="Race" source="Homebrewed by Kronk" id="ID_KRONK_KAPINCHO">
+	<element name="Kapincho" type="Race" source="Kronk's despair" id="ID_KRONK_KAPINCHO">
 		<description>
 			<p>Kapinchos, also known as capybara people, are tranquil, peaceful and lazy people who live in villages on the banks of the world's rivers.</p>
 			<h4>A QUIET AND RIVERSIDE FOLK</h4>
-			<p>Your community is usually made up of 30 ~ 100 individuals run by elders of the village. They live in mud houses, thatch or when there is no available material, in burrows dug in the slopes of the rivers.</p>
-			<p class="indent">They are humanoids of medium height. They have coatings that range from red to brown and invariably brown eyes. Its head resembles the capybaras: it is somehwat elongated, with prominent snout and large incisor teeth. His ears are short and discreet. Your feet have only three fingers and your four hands. Both feet and hands are adapted for swimming.</p>
+			<p>Their community is usually made up of 30 ~ 100 individuals run by elders of the village. They live in mud or thatch houses, or when there is no available material, in burrows dug in the slopes of the rivers.</p>
+			<p class="indent">They are humanoids of medium height. They have coatings that range from red to brown and invariably brown eyes. Its head resembles the capybaras: it is somehwat elongated, with prominent snout and large incisor teeth. Their ears are short and discreet. Their feet have only three toes and their hands have 4 fingers. Both feet and hands are adapted for swimming.</p>
 			<h4>KAPINCHO PERSONALITY</h4>
 			<p>The personality of the Kapinchos make any inexperienced observer tend to believe that they are lazy and accommodated beings, who prefer to stay all day doing nothing, just enjoying life. A more experienced and dedicated observer who seeks to understand the nuances of this people acquires absolute certainty!</p>
 			<p class="indent">This apparent indifference is called among the Kapinchos of "noding". The normal state of their minds is peace and tranquility. Many sages debate about it by trying to find out what goes on in the minds of these people while swimming, and some believe that they, in fact, prefer to stare into empty space thinking of absolute nothingness. Well, the Kapinchos sages prefer to swim together...</p>
-			<p class="indent">There are those who have tried to stop a Kapincho from swimming, and if that annoys him enough, they say that the mere glance of a member of that species is enough to make you give up...</p>
+			<p class="indent">There are those who have tried to stop a Kapincho from swimming, and if that annoys them enough, they say that the mere glance of a member of that species is enough to make you give up...</p>
 			<h4> PERFECTION IN TASKS</h4>
-			<p>In spite of his laziness, Kapinchos dedicate themselves to the execution of a service at the level of perfection. This care is due to the fact that when you do a job well done there is no need for rework, and not needing review anything, Kapincho can not do anything for longer! This way of seeing things become valuable workers and a forewarned boss keep one or two around if you need special work.</p>
-			<p class="indent">Actually a kapinchos do justice to their bad names of lazy, but what raises curiosity about them is their ability to, when they need to act, to do their job with incomparable energy and disposition. If you are a warrior you will fight as if it were the decisive battle of your life. If you are a bricklayer you will work diligently and relentlessly until everything is ready. If you are wise you will give deep, meaningful and practical advice. Once the problem is solved or the work accomplished, the absolute indifference gaze of the surrounding reality returns and it acts as if nothing happened.</p>
+			<p>In spite of their laziness, Kapinchos dedicate themselves to the execution of a service at the level of perfection. This care is due to the fact that when you do a job well done there is no need for rework, and not needing to review anything, Kapincho can't stand to do anything for longer! This way of seeing things means that they are valuable workers and a forewarned boss keeps one or two around for special work.</p>
+			<p class="indent">Actually kapinchos do justice to their bad names of lazy, but what raises curiosity about them is their ability to, when they need to act, to do their job with incomparable energy and disposition. If you are a warrior you will fight as if it were the decisive battle of your life. If you are a bricklayer you will work diligently and relentlessly until everything is ready. If you are wise you will give deep, meaningful and practical advice. Once the problem is solved or the work accomplished, the absolute indifference gaze of the surrounding reality returns and it acts as if nothing happened.</p>
 			<p class="indent">Kapinchos are a people that rarely have adventures in their midst. But sometimes a more ambitious and dreamy individual may end up in a life of adventure. Not infrequently, colleagues of other races value a fellow of that breed, for when they act, they impress by their means and results.</p>
-			<p class="indent">An interesting feature of this breed is that they do not like to be alone. THeir race is very gregarious and they usually act very well in group, what makes them great colleagues.</p>
+			<p class="indent">An interesting feature of this race is that they do not like to be alone. Their race is very gregarious and they usually act very well in groups, which makes them great colleagues.</p>
 			<h4>KAPINCHO NAMES</h4>
-			<p>Seeking a certain exaggerated practicality the names Kapinchos are composed of a single syllable and do not care about gender. THey just take care that it is not the same as another person in the vincinity. When they find an individual with the same name, there are often fights to know who will be able to take a letter from the name, and simplify their pronunciation even more.</p>
+			<p>Seeking a certain exaggerated practicality the names of Kapinchos are composed of a single syllable and do not care about gender. They just take care that it is not the same as another person in the vincinity. When they find an individual with the same name, there are often fights to know who will be able to take a letter from the name, and simplify their pronunciation even more.</p>
 			<p><strong>Typical Names:</strong>Get three letters and put them together. There must be a vowel at least. Examples: Rod, Pain, Pip, Ney, Ump, Oia, etc...</p>
 			<p class="indent"></p>
 			<h4>KAPINCHO TRAITS</h4>
@@ -29,13 +29,13 @@
 			<p class="indent"><strong><em>Ability Score Increase.</em></strong> One ability score of your choice increases by 2.</p>
 			<p class="indent"><strong><em>Age.</em></strong> The average life span of a Kapinchi is 120 years and they become adult at age 20.</p>
 			<p class="indent"><strong><em>Alignment.</em></strong> By his temper, a Kapincho always tries to avoid taking sides in moral issues, tending to neturality. ALthough, in fact, they try not to take sides in anything.</p>
-			<p class="indent"><strong><em>Size.</em></strong> Kapinchos are considered medium creatures. THey measure between 1.4m to 1.6m and are relatively stocky.</p>
+			<p class="indent"><strong><em>Size.</em></strong> Kapinchos are considered medium creatures. They measure between 1.4m to 1.6m and are relatively stocky.</p>
 			<p class="indent"><strong><em>Speed.</em></strong> A kapincho has a walking speed of 25 feet on land and 30 feet swimming.</p>
-			<p class="indent"><strong><em>Natural Swimmer.</em></strong> A Kapincho is considered proficient in atheltics but only for swimming.</p>
+			<p class="indent"><strong><em>Natural Swimmer.</em></strong> A Kapincho is considered proficient in athletics but only for swimming.</p>
 			<p class="indent"><strong><em>Outbreak of Efficiency.</em></strong> A Kapincho must choose for his life an activity in which he wants to focus his efforts. Once you have chosen this activity, you will not be able to choose any other activity. Here is a list and its benefits:</p>
 			<ul>
 				<li>Melee attacks: As a bonus action, Kapincho can enter an efficiency spurt, receiving +2 attack rolls with melee attacks. Bonus increases by 1 on levels 10 and 20. This ability lasts for 1 minute. This ability is automatically terminated if Kapincho can not attack a target in that round or use his standard action to perform some activity other than a melee attack roll. Kapincho can use this ability once per day, gaining another use at level 3, 7 and 12 respectively.</li>
-				<li>Ranged attack: As a bonus action, Kapincho can enter an efficiency spurt, receiving +1 attack rolls with ranged attacks. Bonus increases by 1 on levels 10 and 20. THis ability last for 1 minute. THis ability is automatically terminated if Kapincho can not attack a target in that round or use his standard action to perform some activity other than a ranged attack roll. Kapincho can use this ability once per day, gaining another use at 3, 7 and 12 respectively.</li>
+				<li>Ranged attack: As a bonus action, Kapincho can enter an efficiency spurt, receiving +1 attack rolls with ranged attacks. Bonus increases by 1 on levels 10 and 20. THis ability last for 1 minute. This ability is automatically terminated if Kapincho can not attack a target in that round or use his standard action to perform some activity other than a ranged attack roll. Kapincho can use this ability once per day, gaining another use at 3, 7 and 12 respectively.</li>
 				<li>Defender: As a bonus action, Kapincho can enter an efficiency spurt, receiving +2 on his AC. This ability lasts for 1 minute and ends automatically if Kapincho is hit by a successful attack. Kapincho can use this ability twice per day, gaining another use at level 3, 7 and 12 respectively.</li>
 				<li>Ability Score Expertise: You gan half your proficiency modifier (rounded down) in every skill from the ability score that you choose.</li>
 			</ul>
@@ -43,5 +43,83 @@
 			<p class="indent"><strong><em>Noding.</em></strong> If a kapincho does not perform any action other than eating, drinking, sleeping, reading, playing games that do not require physical effort like (like a card game) for at least an hour, it enters a state of noding. While "noding" the mind of a Kapincho is considered "empty" and is unable to be read and controlled. If you perform any action that requires effort, such as running, fighting, or suffering some type of attacks, the effect of doing is terminated.</p>
 			<p class="indent"><strong><em>Languages.</em></strong> You can speak, read, and write Common and one other language of your choice.</p>
 		</description>
+			<sheet display="false" />
+		<rules>
+			<select type="Ability Score Improvement" name="Custom Ability Score Improvement +2 (Kapincho))" supports="Custom Ability Score Increase 2" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_ASI" />
+			<grant type="Size" id="ID_SIZE_MEDIUM" />
+			<stat name="innate speed" value="25" bonus="base" />
+			<stat name="innate speed:swim" value="30" bonus="base" />
+			<grant type="Racial Trait" id="ID_KRONK_RACIAL_TRAIT_KAPINCHO_NATURAL_SWIMMER" />
+			<grant type="Racial Trait" id="ID_KRONK_RACIAL_TRAIT_KAPINCHO_BAD_WILLING_LOOK" />
+			<grant type="Racial Trait" id="ID_KRONK_RACIAL_TRAIT_KAPINCHO_NODING" />
+			<grant type="Language" id="ID_LANGUAGE_COMMON" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+			<select type="Language" name="Customized Language" supports="Custom Race Language" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_LANGUAGE" />
+			<select type="Language" name="Language (Kapincho)" supports="Standard||Exotic" />
+			 <select type="Sub Race" name="Outbreak Efficiency" supports="Kapincho" />
+		</rules>
 	</element>
+		<element name="Natural Swimmer" type="Racial Trait" source="Kronk's despair" id="ID_KRONK_RACIAL_TRAIT_KAPINCHO_NATURAL_SWIMMER">
+		<description>
+			<p>A Kapincho is considered proficient in athletics but only for swimming.</p>
+		</description>
+		<sheet>
+			<description>A Kapincho is considered proficient in athletics but only for swimming.</description>
+		</sheet>
+		<rules>
+			<grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ATHLETICS" requirements="!ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
+			<select type="Proficiency" name="Customized Skill Proficiency (Natural Swimmer)" supports="Skill" requirements="ID_WOTC_TCOE_OPTION_CUSTOMIZED_PROFICIENCY" />
+		</rules>
+	</element>
+	<element name="Bad Willing Look" type="Racial Trait" source="Kronk's despair" id="ID_KRONK_RACIAL_TRAIT_KAPINCHO_BAD_WILLING_LOOK">
+		<description>
+			<p>Once per long rest, when there is an attacker within 5 feet, Kapincho can use a bonus reaction to force a Will roll (CD=8+charisma modifier). On a failure, the attacker avoids attacking Kapinchi until his next turn. Both must see each other.</p>
+		</description>
+		<sheet>
+			<description>Once per long rest, when there is an attacker within 5 feet, Kapincho can use a bonus reaction to force a Will roll (CD=8+charisma modifier). On a failure, the attacker avoids attacking Kapinchi until his next turn. Both must see each other.</description>
+		</sheet>
+	</element>
+	<element name="Noding" type="Racial Trait" source="Kronk's despair" id="ID_KRONK_RACIAL_TRAIT_KAPINCHO_NODING">
+		<description>
+			<p>If a kapincho only eats, drinks, sleeps, reads, or plays non-physical games for an hour, it enters a "noding" state. While noding, its mind is empty and cannot be read or controlled. Any strenuous activity or attack ends this state.</p>
+		</description>
+		<sheet>
+			<description>If a kapincho only eats, drinks, sleeps, reads, or plays non-physical games for an hour, it enters a "noding" state. While noding, its mind is empty and cannot be read or controlled. Any strenuous activity or attack ends this state.</description>
+		</sheet>
+	</element>
+<element name="Kapincho (Melee attacks)" type="Sub Race" source="Kronk's despair" id="ID_KRONK_SUB_RACE_KAPINCHO_MELEE">
+    <supports>Kapincho</supports>
+    <description>
+        <p>As a bonus action, Kapincho can enter an efficiency spurt, receiving +2 attack rolls with melee attacks. Bonus increases by 1 on levels 10 and 20. This ability lasts for 1 minute. This ability is automatically terminated if Kapincho can not attack a target in that round or use his standard action to perform some activity other than a melee attack roll. Kapincho can use this ability once per day, gaining another use at level 3, 7 and 12 respectively.</p>
+    </description>
+	<sheet>
+		<description> As a bonus action, Kapincho can enter an efficiency spurt, receiving +2 attack rolls with melee attacks. Bonus increases by 1 on levels 10 and 20. This ability lasts for 1 minute. This ability is automatically terminated if Kapincho can not attack a target in that round or use his standard action to perform some activity other than a melee attack roll. Kapincho can use this ability once per day, gaining another use at level 3, 7 and 12 respectively. </description>
+	</sheet>
+</element>
+<element name="Kapincho (Ranged attacks)" type="Sub Race" source="Kronk's despair" id="ID_KRONK_SUB_RACE_KAPINCHO_RANGED">
+<supports>Kapincho</supports>
+    <description>
+        <p>As a bonus action, Kapincho can enter an efficiency spurt, receiving +1 attack rolls with ranged attacks. Bonus increases by 1 on levels 10 and 20. THis ability last for 1 minute. This ability is automatically terminated if Kapincho can not attack a target in that round or use his standard action to perform some activity other than a ranged attack roll. Kapincho can use this ability once per day, gaining another use at 3, 7 and 12 respectively.</p>
+    </description>
+	<sheet>
+		<description>As a bonus action, Kapincho can enter an efficiency spurt, receiving +1 attack rolls with ranged attacks. Bonus increases by 1 on levels 10 and 20. THis ability last for 1 minute. This ability is automatically terminated if Kapincho can not attack a target in that round or use his standard action to perform some activity other than a ranged attack roll. Kapincho can use this ability once per day, gaining another use at 3, 7 and 12 respectively.</description>
+	</sheet>
+</element>
+<element name="Kapincho (Defender)" type="Sub Race" source="Kronk's despair" id="ID_KRONK_SUB_RACE_KAPINCHO_DEFENDER">
+    <supports>Kapincho</supports>
+    <description>
+        <p>As a bonus action, Kapincho can enter an efficiency spurt, receiving +2 on his AC. This ability lasts for 1 minute and ends automatically if Kapincho is hit by a successful attack. Kapincho can use this ability twice per day, gaining another use at level 3, 7 and 12 respectively.</p>
+    </description>
+	<sheet>
+		<description>As a bonus action, Kapincho can enter an efficiency spurt, receiving +2 on his AC. This ability lasts for 1 minute and ends automatically if Kapincho is hit by a successful attack. Kapincho can use this ability twice per day, gaining another use at level 3, 7 and 12 respectively.</description>
+	</sheet>
+</element>
+<element name="Kapincho (Ability Score Increase)" type="Sub Race" source="Kronk's despair" id="ID_KRONK_SUB_RACE_KAPINCHO_ABILITY_SCORE_INCREASE">
+<supports>Kapincho</supports>
+    <description>
+        <p>You gain half your proficiency modifier (rounded down) in every skill from the ability score that you choose.</p>
+    </description>
+	<sheet>
+		<description>You gain half your proficiency modifier (rounded down) in every skill from the ability score that you choose.</description>
+	</sheet>
+</element>
 </elements>
